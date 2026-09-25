@@ -34,6 +34,9 @@ Thumbs.db
 *.log
 scripts/smoke-test.log
 
+# Local security audit reports
+.secops-reports/
+
 # TypeScript build info
 tsconfig.tsbuildinfo
 frontend/tsconfig.tsbuildinfo
